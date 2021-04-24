@@ -13,11 +13,12 @@
 
 Pinnedにある開発内容に関しての説明です。
 
-board => 掲示板
-form => ログインフォーム
-task => 学習時開発物
-contents => 最近簡単に開発したもの
-simple => htmlのみで簡潔にHPを作成
+board => 掲示板、
+form => ログインフォーム、
+task => 学習時開発物、
+contents => 最近簡単に開発したもの、
+simple => htmlのみで簡潔にHPを作成、
+shoppingcart => ショッピングカート
 
 <!--
 **takahumip7/takahumip7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
