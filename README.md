@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+初めまして。
+私はプログラミングを2020年5月から行っております。
+
 <!--
 **takahumip7/takahumip7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
