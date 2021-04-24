@@ -1,4 +1,6 @@
-### Hi there 👋
+### こんにちは 👋
+
+ご覧頂きありがとうございます。
 
 初めまして。
 私はプログラミングを2020年5月から行っております。
@@ -9,7 +11,7 @@
 
 考えてるうちにコロナ禍になり、テレワークが多くなった事をきっかけにプログラマーを目指そうと決意しました。
 
-下記にある開発内容に関しての詳細です。
+Pinnedにある開発内容に関しての説明です。
 
 <!--
 **takahumip7/takahumip7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
