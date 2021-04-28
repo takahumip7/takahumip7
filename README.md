@@ -21,6 +21,9 @@ contents => 最近簡単に開発したもの、
 simple => htmlのみで簡潔にHPを作成、
 shoppingcart => ショッピングカート
 
+開発内容
+https://github.com/tech-is/KakeiboHUB
+
 <!--
 **takahumip7/takahumip7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
