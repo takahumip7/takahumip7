@@ -21,7 +21,9 @@ contents => 最近簡単に開発したもの、
 simple => htmlのみで簡潔にHPを作成、
 shoppingcart => ショッピングカート
 
-自主制作　https://elx-ltd.com/　
+bootstrapでの制作　https://elx-ltd.com/　
+
+えひめのアプリ（えぷり）の天気、占いを制作
 
 開発内容
 https://github.com/tech-is/KakeiboHUB
