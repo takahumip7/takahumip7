@@ -21,7 +21,8 @@ contents => 最近簡単に開発したもの、
 simple => htmlのみで簡潔にHPを作成、
 shoppingcart => ショッピングカート
 
-自主制作　https://elx-ltd.com/　、
+自主制作　https://elx-ltd.com/　
+
 開発内容
 https://github.com/tech-is/KakeiboHUB
 
