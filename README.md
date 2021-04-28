@@ -21,7 +21,7 @@ contents => 最近簡単に開発したもの、
 simple => htmlのみで簡潔にHPを作成、
 shoppingcart => ショッピングカート
 
-bootstrapでの制作　https://elx-ltd.com/　
+bootstrapでの制作　https://elx-ltd.com
 
 えひめのアプリ（えぷり）の天気、占いを制作
 
