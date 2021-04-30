@@ -23,6 +23,8 @@ shoppingcart => ショッピングカート
 
 bootstrapでの制作　https://elx-ltd.com
 
+wordpress　https://t-yam.com
+
 えひめのアプリ（えぷり）の天気、占いを制作
 
 開発内容
