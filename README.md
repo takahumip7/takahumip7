@@ -27,6 +27,7 @@ shoppingcart => ショッピングカート
 bootstrapでの制作　https://elx-ltd.com
 
 えひめのアプリ（えぷり）の天気、占いを制作
+https://apps.apple.com/jp/app/%E3%81%88%E3%81%B2%E3%82%81%E3%81%AE%E3%81%82%E3%81%B7%E3%82%8A-%E3%81%88%E3%81%B7%E3%82%8A/id1215195320
 
 開発内容
 https://github.com/tech-is/KakeiboHUB
