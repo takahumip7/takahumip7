@@ -27,7 +27,6 @@
 
 # HP制作、アプリ開発
 - bootstrapでの制作　https://elx-ltd.com
-- wordpress　https://takap7.com
 - [えひめのアプリ（えぷり）の天気、占いを制作](https://apps.apple.com/jp/app/%E3%81%88%E3%81%B2%E3%82%81%E3%81%AE%E3%81%82%E3%81%B7%E3%82%8A-%E3%81%88%E3%81%B7%E3%82%8A/id1215195320)
 - [登録簡単、面倒知らずな家計簿！(KakeiboHUB)](https://github.com/tech-is/KakeiboHUB)
 
